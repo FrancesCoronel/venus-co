@@ -1,0 +1,18 @@
+.align {
+    display: inline-block;
+    float: none;
+    margin-left: 0;
+    vertical-align: middle;
+}
+
+.quote {
+    font-size: 1.5em;
+}
+
+.children image {
+    width: 50%!important;
+}
+
+header.major > :last-child {
+  margin-bottom: 1em;
+}

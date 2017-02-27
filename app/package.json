@@ -1,0 +1,23 @@
+{
+  "name": "Mora",
+  "version": "1.0.0",
+  "description": "Less stress, more homes.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/fvcproductions/venus-co",
+  "keywords": [
+    "foster",
+    "children",
+    "care",
+    "homes",
+    "cornell"
+  ],
+  "author": "Team Venus",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.4.15",
+    "electron-packager": "^8.5.2"
+  }
+}
