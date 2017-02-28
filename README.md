@@ -4,9 +4,7 @@
 
 Assets for Venus Co. | Startup Studio | Spring 2017 💕
 
-![VENUS](img/logos/default.png)
-
-optimal image dimensions: 416x256
+![MORA-Logo](app/assets/images/logos/mora/type.png)
 
 ## Table of Contents
 
@@ -39,6 +37,8 @@ electron-packager . --overwrite --platform=darwin --arch=x64 --icon=assets/icons
 ## Usage
 
 Project for Startup Studio 2017.
+
+![MORA-v1](app/assets/images/other/app-v1.png)
 
 Photos taken from [AdoptUSKids](http://www.adoptuskids.org/).
 
