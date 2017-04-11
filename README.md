@@ -34,6 +34,10 @@ electron-packager . --overwrite --platform=darwin --arch=x64 --icon=assets/icons
 
 - Learn more about Electron and its API in the [documentation](http://electron.atom.io/docs/).
 
+```
+Get Michael's medical documents from Doctor Lowe
+```
+
 ## Usage
 
 Project for Startup Studio 2017.

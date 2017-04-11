@@ -15,8 +15,8 @@ let mainWindow;
 function createWindow() {
     // Create the browser window.
     mainWindow = new BrowserWindow({
-        width: 800,
-        height: 600,
+        width: 1300,
+        height: 900,
         title: "MORA",
         icon: path.join(__dirname, 'assets/icons/linux/64x64.png')
     });

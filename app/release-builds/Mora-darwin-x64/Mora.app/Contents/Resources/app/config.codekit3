@@ -265,21 +265,51 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/assets\/images\/other\/child-view.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/assets\/images\/other\/child-view.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
 	"\/assets\/images\/other\/dashboard.png": {
 		"ft": 32768,
 		"iS": 660973,
 		"oA": 0,
 		"oAP": "\/assets\/images\/other\/dashboard.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/images\/other\/sprint-1\/sprint1-1.png": {
+		"ft": 32768,
+		"iS": 151728,
+		"oA": 0,
+		"oAP": "\/assets\/images\/other\/sprint-1\/sprint1-1.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/images\/other\/sprint-1\/sprint1-2.png": {
+		"ft": 32768,
+		"iS": 116031,
+		"oA": 0,
+		"oAP": "\/assets\/images\/other\/sprint-1\/sprint1-2.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/images\/other\/sprint-1\/sprint1-3.png": {
+		"ft": 32768,
+		"iS": 557261,
+		"oA": 0,
+		"oAP": "\/assets\/images\/other\/sprint-1\/sprint1-3.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/images\/other\/sprint-1\/sprint1-4.png": {
+		"ft": 32768,
+		"iS": 90727,
+		"oA": 0,
+		"oAP": "\/assets\/images\/other\/sprint-1\/sprint1-4.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/images\/other\/sprint-1\/sprint1-5.png": {
+		"ft": 32768,
+		"iS": 522292,
+		"oA": 0,
+		"oAP": "\/assets\/images\/other\/sprint-1\/sprint1-5.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -793,6 +823,1018 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/LICENSE": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/LICENSE",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/LICENSES.chromium.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/LICENSES.chromium.html",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Electron Framework": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Electron Framework",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Libraries\/libffmpeg.dylib": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Libraries\/libffmpeg.dylib",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Libraries\/libnode.dylib": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Libraries\/libnode.dylib",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/content_shell.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/content_shell.pak",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/crashpad_handler": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/crashpad_handler",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/en.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/en.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/en_GB.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/en_GB.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/icudtl.dat": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/icudtl.dat",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/Info.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/Info.plist",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/MainMenu.nib": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/MainMenu.nib",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/natives_blob.bin": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/natives_blob.bin",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/snapshot_blob.bin": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/snapshot_blob.bin",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Mantle": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Mantle",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Modules\/module.modulemap": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Modules\/module.modulemap",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Resources\/Info.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Resources\/Info.plist",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mora Helper EH.app\/Contents\/Info.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mora Helper EH.app\/Contents\/Info.plist",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mora Helper EH.app\/Contents\/MacOS\/Mora Helper EH": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mora Helper EH.app\/Contents\/MacOS\/Mora Helper EH",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mora Helper EH.app\/Contents\/PkgInfo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mora Helper EH.app\/Contents\/PkgInfo",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mora Helper NP.app\/Contents\/Info.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mora Helper NP.app\/Contents\/Info.plist",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mora Helper NP.app\/Contents\/MacOS\/Mora Helper NP": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mora Helper NP.app\/Contents\/MacOS\/Mora Helper NP",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mora Helper NP.app\/Contents\/PkgInfo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mora Helper NP.app\/Contents\/PkgInfo",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mora Helper.app\/Contents\/Info.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mora Helper.app\/Contents\/Info.plist",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mora Helper.app\/Contents\/MacOS\/Mora Helper": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mora Helper.app\/Contents\/MacOS\/Mora Helper",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mora Helper.app\/Contents\/PkgInfo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mora Helper.app\/Contents\/PkgInfo",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Modules\/module.modulemap": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Modules\/module.modulemap",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/ReactiveCocoa": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/ReactiveCocoa",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Resources\/Info.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Resources\/Info.plist",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Modules\/module.modulemap": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Modules\/module.modulemap",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Resources\/Info.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Resources\/Info.plist",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Resources\/ShipIt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Resources\/ShipIt",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Squirrel": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Squirrel",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Info.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Info.plist",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/MacOS\/Mora": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/MacOS\/Mora",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/PkgInfo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/PkgInfo",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/.gitignore",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/css\/font-awesome.min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/css\/font-awesome.min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/css\/ie8.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/css\/ie8-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/css\/ie9.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/css\/ie9-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/css\/main.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/css\/main-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/fonts\/fontawesome-webfont.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/fonts\/fontawesome-webfont.eot",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/fonts\/fontawesome-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/fonts\/fontawesome-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/fonts\/fontawesome-webfont.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/fonts\/fontawesome-webfont.ttf",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/fonts\/fontawesome-webfont.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/fonts\/fontawesome-webfont.woff",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/fonts\/fontawesome-webfont.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/fonts\/fontawesome-webfont.woff2",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/fonts\/FontAwesome.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/fonts\/FontAwesome.otf",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/1024x1024.png": {
+		"ft": 32768,
+		"iS": 127539,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/1024x1024.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/128x128.png": {
+		"ft": 32768,
+		"iS": 8298,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/128x128.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/16x16.png": {
+		"ft": 32768,
+		"iS": 665,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/16x16.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/256x256.png": {
+		"ft": 32768,
+		"iS": 19740,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/256x256.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/32x32.png": {
+		"ft": 32768,
+		"iS": 1556,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/32x32.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/512x512.png": {
+		"ft": 32768,
+		"iS": 31015,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/512x512.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/64x64.png": {
+		"ft": 32768,
+		"iS": 3554,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/64x64.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/mac\/icon.icns": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/mac\/icon.icns",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/windows\/icon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/windows\/icon.ico",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/windows\/mora.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/windows\/mora.ico",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/mora\/logo.png": {
+		"ft": 32768,
+		"iS": 59595,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/mora\/logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/mora\/type.png": {
+		"ft": 32768,
+		"iS": 85656,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/mora\/type.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/black\/black-image.png": {
+		"ft": 32768,
+		"iS": 59402,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/black\/black-image.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/black\/black.png": {
+		"ft": 32768,
+		"iS": 58823,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/black\/black.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/logo.png": {
+		"ft": 32768,
+		"iS": 60153,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/pink\/pink-image.png": {
+		"ft": 32768,
+		"iS": 74269,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/pink\/pink-image.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/pink\/pink.png": {
+		"ft": 32768,
+		"iS": 65691,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/pink\/pink.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/transparent.png": {
+		"ft": 32768,
+		"iS": 77056,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/transparent.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/white\/white-image.png": {
+		"ft": 32768,
+		"iS": 74477,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/white\/white-image.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/white\/white.png": {
+		"ft": 32768,
+		"iS": 68061,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/white\/white.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/anne.jpg": {
+		"ft": 16384,
+		"iS": 42114,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/anne.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/child-view.png": {
+		"ft": 32768,
+		"iS": 166930,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/child-view.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/dashboard.png": {
+		"ft": 32768,
+		"iS": 660973,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/dashboard.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/style-guide.png": {
+		"ft": 32768,
+		"iS": 191481,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/style-guide.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/team\/frances-coronel.jpg": {
+		"ft": 16384,
+		"iS": 145378,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/team\/frances-coronel.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/team\/isha-toor.jpg": {
+		"ft": 16384,
+		"iS": 8057,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/team\/isha-toor.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/team\/mara-tache.jpg": {
+		"ft": 16384,
+		"iS": 32076,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/team\/mara-tache.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/team\/mengyu-cao.jpg": {
+		"ft": 16384,
+		"iS": 32262,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/team\/mengyu-cao.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/js\/ie\/html5shiv.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/js\/ie\/html5shiv-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/js\/ie\/respond.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/js\/ie\/respond.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/js\/jquery.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/js\/jquery.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/js\/main.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/js\/main-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/js\/menu-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/js\/menu-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/js\/min\/main-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/js\/min\/main-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/js\/skel.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/js\/skel.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/js\/util.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/js\/util-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/base\/_page.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/base\/_page.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/base\/_typography.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/base\/_typography.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_box.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_box.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_button.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_button.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_custom.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_custom.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_features.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_features.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_form.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_form.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_icon.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_icon.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_image.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_image.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_list.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_list.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_mini-posts.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_mini-posts.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_posts.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_posts.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_section.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_section.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_table.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/components\/_table.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/ie8.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/ie8.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/ie9.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/ie9.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/layout\/_banner.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/layout\/_banner.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/layout\/_footer.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/layout\/_footer.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/layout\/_header.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/layout\/_header.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/layout\/_main.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/layout\/_main.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/layout\/_menu.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/layout\/_menu.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/layout\/_sidebar.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/layout\/_sidebar.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/layout\/_wrapper.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/layout\/_wrapper.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/libs\/_functions.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/libs\/_functions.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/libs\/_mixins.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/libs\/_mixins.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/libs\/_skel.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/libs\/_skel.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/libs\/_vars.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/libs\/_vars.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/main.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/sass\/main.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/child.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/child.html",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/index.html",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/main.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/main-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/package.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/package-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/renderer.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/renderer-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/electron.asar": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/electron.asar",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/electron.icns": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/electron.icns",
+		"oF": 0
+		},
+	"\/release-builds\/Mora-darwin-x64\/version": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/release-builds\/Mora-darwin-x64\/version",
+		"oF": 0
 		},
 	"\/renderer.js": {
 		"ft": 64,
