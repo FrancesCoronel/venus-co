@@ -32,17 +32,21 @@ npm i --save-dev electron
 electron-packager . --overwrite --platform=darwin --arch=x64 --icon=assets/icons/mac/icon.icns --prune=true --out=release-builds
 ```
 
-- Learn more about Electron and its API in the [documentation](http://electron.atom.io/docs/).
+> Having trouble opening the DMG (allow apps to be downloaded from anywhere)?
 
+```bash
+sudo sptcl --master-disable
 ```
-Get Michael's medical documents from Doctor Lowe
-```
+
+- Learn more about Electron and its API in the [documentation](http://electron.atom.io/docs/).
 
 ## Usage
 
 Project for Startup Studio 2017.
 
-![MORA-v1](app/assets/images/other/app-v1.png)
+![MORA-v1](app/assets/images/sprint-1/sprint-1-1.png)
+
+![Mora-v2](app/assets/images/sprint-2/sprint-2-1.png)
 
 Photos taken from [AdoptUSKids](http://www.adoptuskids.org/).
 

@@ -7,7 +7,7 @@
 		"uuidString": "DBF3A817-30BF-4D6B-A6E0-65387BAE8AAA"
 		}
 	],
-"creatorBuild": "25704",
+"creatorBuild": "25813",
 "files": {
 	"\/.gitignore": {
 		"ft": 8192,
@@ -110,71 +110,78 @@
 	"\/app\/assets\/icons\/linux\/1024x1024.png": {
 		"ft": 32768,
 		"iS": 127539,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/icons\/linux\/1024x1024.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/icons\/linux\/128x128.png": {
 		"ft": 32768,
 		"iS": 8298,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/icons\/linux\/128x128.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/icons\/linux\/16x16.png": {
 		"ft": 32768,
 		"iS": 665,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/icons\/linux\/16x16.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/icons\/linux\/256x256.png": {
 		"ft": 32768,
 		"iS": 19740,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/icons\/linux\/256x256.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/icons\/linux\/32x32.png": {
 		"ft": 32768,
 		"iS": 1556,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/icons\/linux\/32x32.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/icons\/linux\/512x512.png": {
 		"ft": 32768,
 		"iS": 31015,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/icons\/linux\/512x512.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/icons\/linux\/64x64.png": {
 		"ft": 32768,
 		"iS": 3554,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/icons\/linux\/64x64.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/icons\/mac\/icon.icns": {
@@ -195,104 +202,158 @@
 		"oAP": "\/app\/assets\/icons\/windows\/mora.ico",
 		"oF": 0
 		},
+	"\/app\/assets\/images\/bars\/background-bar.png": {
+		"ft": 32768,
+		"iS": 1908,
+		"oA": 0,
+		"oAP": "\/app\/assets\/images\/bars\/background-bar.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/app\/assets\/images\/bars\/education-bar.png": {
+		"ft": 32768,
+		"iS": 1976,
+		"oA": 0,
+		"oAP": "\/app\/assets\/images\/bars\/education-bar.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/app\/assets\/images\/bars\/legal-bar.png": {
+		"ft": 32768,
+		"iS": 669,
+		"oA": 0,
+		"oAP": "\/app\/assets\/images\/bars\/legal-bar.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/app\/assets\/images\/bars\/medical-bar.png": {
+		"ft": 32768,
+		"iS": 1985,
+		"oA": 0,
+		"oAP": "\/app\/assets\/images\/bars\/medical-bar.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/app\/assets\/images\/logos\/mora\/logo.png": {
 		"ft": 32768,
 		"iS": 59595,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/images\/logos\/mora\/logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/images\/logos\/mora\/type.png": {
 		"ft": 32768,
 		"iS": 85656,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/images\/logos\/mora\/type.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/images\/logos\/venus\/black\/black-image.png": {
 		"ft": 32768,
 		"iS": 59402,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/images\/logos\/venus\/black\/black-image.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/images\/logos\/venus\/black\/black.png": {
 		"ft": 32768,
 		"iS": 58823,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/images\/logos\/venus\/black\/black.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/images\/logos\/venus\/logo.png": {
 		"ft": 32768,
 		"iS": 60153,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/images\/logos\/venus\/logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/images\/logos\/venus\/pink\/pink-image.png": {
 		"ft": 32768,
 		"iS": 74269,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/images\/logos\/venus\/pink\/pink-image.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/images\/logos\/venus\/pink\/pink.png": {
 		"ft": 32768,
 		"iS": 65691,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/images\/logos\/venus\/pink\/pink.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/images\/logos\/venus\/transparent.png": {
 		"ft": 32768,
 		"iS": 77056,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/images\/logos\/venus\/transparent.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/images\/logos\/venus\/white\/white-image.png": {
 		"ft": 32768,
 		"iS": 74477,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/images\/logos\/venus\/white\/white-image.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/images\/logos\/venus\/white\/white.png": {
 		"ft": 32768,
 		"iS": 68061,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/images\/logos\/venus\/white\/white.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/images\/other\/anne.jpg": {
@@ -301,57 +362,19 @@
 		"oA": 0,
 		"oAP": "\/app\/assets\/images\/other\/anne.jpg",
 		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/app\/assets\/images\/other\/bars\/background-bar.png": {
-		"ft": 32768,
-		"iS": 1908,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/other\/bars\/background-bar.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/app\/assets\/images\/other\/bars\/education-bar.png": {
-		"ft": 32768,
-		"iS": 1976,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/other\/bars\/education-bar.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/app\/assets\/images\/other\/bars\/legal-bar.png": {
-		"ft": 32768,
-		"iS": 669,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/other\/bars\/legal-bar.png",
-		"oF": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/app\/assets\/images\/other\/bars\/medical-bar.png": {
-		"ft": 32768,
-		"iS": 1985,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/other\/bars\/medical-bar.png",
-		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/app\/assets\/images\/other\/child-view.png": {
 		"ft": 32768,
 		"iS": 166930,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/images\/other\/child-view.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/images\/other\/damion.jpg": {
@@ -360,77 +383,96 @@
 		"oA": 0,
 		"oAP": "\/app\/assets\/images\/other\/damion.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/app\/assets\/images\/other\/dashboard.png": {
 		"ft": 32768,
 		"iS": 660973,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/images\/other\/dashboard.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
-		"q": 100
-		},
-	"\/app\/assets\/images\/other\/sprint-1\/sprint1-1.png": {
-		"ft": 32768,
-		"iS": 151728,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/other\/sprint-1\/sprint1-1.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/app\/assets\/images\/other\/sprint-1\/sprint1-2.png": {
-		"ft": 32768,
-		"iS": 116031,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/other\/sprint-1\/sprint1-2.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/app\/assets\/images\/other\/sprint-1\/sprint1-3.png": {
-		"ft": 32768,
-		"iS": 557261,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/other\/sprint-1\/sprint1-3.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/app\/assets\/images\/other\/sprint-1\/sprint1-4.png": {
-		"ft": 32768,
-		"iS": 90727,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/other\/sprint-1\/sprint1-4.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/app\/assets\/images\/other\/sprint-1\/sprint1-5.png": {
-		"ft": 32768,
-		"iS": 522292,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/other\/sprint-1\/sprint1-5.png",
-		"oF": 0,
-		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/images\/other\/style-guide.png": {
 		"ft": 32768,
 		"iS": 191481,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/images\/other\/style-guide.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/app\/assets\/images\/sprint-1\/sprint-1-1.png": {
+		"ft": 32768,
+		"iS": 151728,
+		"oA": 0,
+		"oAP": "\/app\/assets\/images\/sprint-1\/sprint-1-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/app\/assets\/images\/sprint-1\/sprint-1-2.png": {
+		"ft": 32768,
+		"iS": 116031,
+		"oA": 0,
+		"oAP": "\/app\/assets\/images\/sprint-1\/sprint-1-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/app\/assets\/images\/sprint-1\/sprint-1-3.png": {
+		"ft": 32768,
+		"iS": 557261,
+		"oA": 0,
+		"oAP": "\/app\/assets\/images\/sprint-1\/sprint-1-3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/app\/assets\/images\/sprint-1\/sprint-1-4.png": {
+		"ft": 32768,
+		"iS": 90727,
+		"oA": 0,
+		"oAP": "\/app\/assets\/images\/sprint-1\/sprint-1-4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/app\/assets\/images\/sprint-1\/sprint-1-5.png": {
+		"ft": 32768,
+		"iS": 522292,
+		"oA": 0,
+		"oAP": "\/app\/assets\/images\/sprint-1\/sprint-1-5.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/app\/assets\/images\/sprint-2\/sprint-2-1.png": {
+		"ft": 32768,
+		"iS": 140595,
+		"oA": 0,
+		"oAP": "\/app\/assets\/images\/sprint-2\/sprint-2-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/images\/team\/frances-coronel.jpg": {
@@ -439,6 +481,7 @@
 		"oA": 0,
 		"oAP": "\/app\/assets\/images\/team\/frances-coronel.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -448,6 +491,7 @@
 		"oA": 0,
 		"oAP": "\/app\/assets\/images\/team\/isha-toor.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -457,6 +501,7 @@
 		"oA": 0,
 		"oAP": "\/app\/assets\/images\/team\/mara-tache.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -466,6 +511,7 @@
 		"oA": 0,
 		"oAP": "\/app\/assets\/images\/team\/mengyu-cao.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -1153,11 +1199,12 @@
 	"\/app\/assets\/uswds\/img\/alerts\/error.png": {
 		"ft": 32768,
 		"iS": 4154,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/alerts\/error.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/alerts\/error.svg": {
@@ -1173,11 +1220,12 @@
 	"\/app\/assets\/uswds\/img\/alerts\/info.png": {
 		"ft": 32768,
 		"iS": 3622,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/alerts\/info.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/alerts\/info.svg": {
@@ -1193,11 +1241,12 @@
 	"\/app\/assets\/uswds\/img\/alerts\/success.png": {
 		"ft": 32768,
 		"iS": 4098,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/alerts\/success.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/alerts\/success.svg": {
@@ -1213,11 +1262,12 @@
 	"\/app\/assets\/uswds\/img\/alerts\/warning.png": {
 		"ft": 32768,
 		"iS": 3159,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/alerts\/warning.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/alerts\/warning.svg": {
@@ -1233,11 +1283,12 @@
 	"\/app\/assets\/uswds\/img\/angle-arrow-down-hover.png": {
 		"ft": 32768,
 		"iS": 15183,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/angle-arrow-down-hover.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/angle-arrow-down-hover.svg": {
@@ -1253,11 +1304,12 @@
 	"\/app\/assets\/uswds\/img\/angle-arrow-down-primary-hover.png": {
 		"ft": 32768,
 		"iS": 14730,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/angle-arrow-down-primary-hover.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/angle-arrow-down-primary-hover.svg": {
@@ -1273,11 +1325,12 @@
 	"\/app\/assets\/uswds\/img\/angle-arrow-down-primary.png": {
 		"ft": 32768,
 		"iS": 14731,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/angle-arrow-down-primary.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/angle-arrow-down-primary.svg": {
@@ -1293,11 +1346,12 @@
 	"\/app\/assets\/uswds\/img\/angle-arrow-down.png": {
 		"ft": 32768,
 		"iS": 512,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/angle-arrow-down.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/angle-arrow-down.svg": {
@@ -1313,11 +1367,12 @@
 	"\/app\/assets\/uswds\/img\/angle-arrow-up-primary-hover.png": {
 		"ft": 32768,
 		"iS": 2567,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/angle-arrow-up-primary-hover.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/angle-arrow-up-primary-hover.svg": {
@@ -1333,11 +1388,12 @@
 	"\/app\/assets\/uswds\/img\/angle-arrow-up-primary.png": {
 		"ft": 32768,
 		"iS": 2546,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/angle-arrow-up-primary.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/angle-arrow-up-primary.svg": {
@@ -1353,11 +1409,12 @@
 	"\/app\/assets\/uswds\/img\/arrow-down.png": {
 		"ft": 32768,
 		"iS": 296,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/arrow-down.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/arrow-down.svg": {
@@ -1373,11 +1430,12 @@
 	"\/app\/assets\/uswds\/img\/arrow-right.png": {
 		"ft": 32768,
 		"iS": 265,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/arrow-right.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/arrow-right.svg": {
@@ -1393,21 +1451,23 @@
 	"\/app\/assets\/uswds\/img\/circle-124.png": {
 		"ft": 32768,
 		"iS": 17738,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/circle-124.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/close.png": {
 		"ft": 32768,
 		"iS": 2031,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/close.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/close.svg": {
@@ -1423,11 +1483,12 @@
 	"\/app\/assets\/uswds\/img\/correct8.png": {
 		"ft": 32768,
 		"iS": 195,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/correct8.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/correct8.svg": {
@@ -1443,11 +1504,12 @@
 	"\/app\/assets\/uswds\/img\/correct9.png": {
 		"ft": 32768,
 		"iS": 446,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/correct9.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/correct9.svg": {
@@ -1463,11 +1525,12 @@
 	"\/app\/assets\/uswds\/img\/external-link-alt-hover.png": {
 		"ft": 32768,
 		"iS": 15206,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/external-link-alt-hover.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/external-link-alt-hover.svg": {
@@ -1483,11 +1546,12 @@
 	"\/app\/assets\/uswds\/img\/external-link-alt.png": {
 		"ft": 32768,
 		"iS": 1218,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/external-link-alt.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/external-link-alt.svg": {
@@ -1503,11 +1567,12 @@
 	"\/app\/assets\/uswds\/img\/external-link-hover.png": {
 		"ft": 32768,
 		"iS": 2105,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/external-link-hover.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/external-link-hover.svg": {
@@ -1523,11 +1588,12 @@
 	"\/app\/assets\/uswds\/img\/external-link.png": {
 		"ft": 32768,
 		"iS": 2043,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/external-link.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/external-link.svg": {
@@ -1543,71 +1609,78 @@
 	"\/app\/assets\/uswds\/img\/favicons\/favicon-114.png": {
 		"ft": 32768,
 		"iS": 606,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/favicons\/favicon-114.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/favicons\/favicon-144.png": {
 		"ft": 32768,
 		"iS": 698,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/favicons\/favicon-144.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/favicons\/favicon-16.png": {
 		"ft": 32768,
 		"iS": 215,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/favicons\/favicon-16.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/favicons\/favicon-192.png": {
 		"ft": 32768,
 		"iS": 775,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/favicons\/favicon-192.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/favicons\/favicon-40.png": {
 		"ft": 32768,
 		"iS": 2030,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/favicons\/favicon-40.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/favicons\/favicon-57.png": {
 		"ft": 32768,
 		"iS": 526,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/favicons\/favicon-57.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/favicons\/favicon-72.png": {
 		"ft": 32768,
 		"iS": 400,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/favicons\/favicon-72.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/favicons\/favicon.ico": {
@@ -1619,21 +1692,23 @@
 	"\/app\/assets\/uswds\/img\/favicons\/favicon.png": {
 		"ft": 32768,
 		"iS": 729,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/favicons\/favicon.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/hero.png": {
 		"ft": 32768,
 		"iS": 740766,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/hero.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/icon-dot-gov.svg": {
@@ -1659,21 +1734,23 @@
 	"\/app\/assets\/uswds\/img\/logo-img.png": {
 		"ft": 32768,
 		"iS": 1022,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/logo-img.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/minus-alt.png": {
 		"ft": 32768,
 		"iS": 14612,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/minus-alt.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/minus-alt.svg": {
@@ -1689,11 +1766,12 @@
 	"\/app\/assets\/uswds\/img\/minus.png": {
 		"ft": 32768,
 		"iS": 142,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/minus.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/minus.svg": {
@@ -1709,11 +1787,12 @@
 	"\/app\/assets\/uswds\/img\/plus-alt.png": {
 		"ft": 32768,
 		"iS": 14716,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/plus-alt.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/plus-alt.svg": {
@@ -1729,11 +1808,12 @@
 	"\/app\/assets\/uswds\/img\/plus.png": {
 		"ft": 32768,
 		"iS": 241,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/plus.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/plus.svg": {
@@ -1749,11 +1829,12 @@
 	"\/app\/assets\/uswds\/img\/search-alt.png": {
 		"ft": 32768,
 		"iS": 17585,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/search-alt.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/search-alt.svg": {
@@ -1769,11 +1850,12 @@
 	"\/app\/assets\/uswds\/img\/search.png": {
 		"ft": 32768,
 		"iS": 316,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/search.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/search.svg": {
@@ -1789,41 +1871,45 @@
 	"\/app\/assets\/uswds\/img\/social-icons\/png\/facebook25.png": {
 		"ft": 32768,
 		"iS": 406,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/social-icons\/png\/facebook25.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/social-icons\/png\/rss25.png": {
 		"ft": 32768,
 		"iS": 1018,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/social-icons\/png\/rss25.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/social-icons\/png\/twitter16.png": {
 		"ft": 32768,
 		"iS": 841,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/social-icons\/png\/twitter16.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/social-icons\/png\/youtube15.png": {
 		"ft": 32768,
 		"iS": 1036,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/social-icons\/png\/youtube15.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/img\/social-icons\/svg\/facebook25.svg": {
@@ -1869,11 +1955,12 @@
 	"\/app\/assets\/uswds\/img\/us_flag_small.png": {
 		"ft": 32768,
 		"iS": 176,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/assets\/uswds\/img\/us_flag_small.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/assets\/uswds\/js\/uswds.js": {
@@ -2007,36 +2094,6 @@
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Libraries\/libnode.dylib",
 		"oF": 0
 		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/am.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/am.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ar.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ar.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/bg.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/bg.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/bn.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/bn.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ca.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ca.lproj\/locale.pak",
-		"oF": 0
-		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/content_shell.pak": {
 		"ft": 8192,
 		"oA": 2,
@@ -2047,30 +2104,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/crashpad_handler",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/cs.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/cs.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/da.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/da.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/de.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/de.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/el.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/el.lproj\/locale.pak",
 		"oF": 0
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/en.lproj\/locale.pak": {
@@ -2085,88 +2118,10 @@
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/en_GB.lproj\/locale.pak",
 		"oF": 0
 		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/es.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/es.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/es_419.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/es_419.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/et.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/et.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fa.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fa.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fi.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fi.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fil.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fil.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fr.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fr.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/gu.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/gu.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/he.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/he.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/hi.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/hi.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/hr.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/hr.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/hu.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/hu.lproj\/locale.pak",
-		"oF": 0
-		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/icudtl.dat": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/icudtl.dat",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/id.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/id.lproj\/locale.pak",
 		"oF": 0
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/Info.plist": {
@@ -2175,64 +2130,10 @@
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/Info.plist",
 		"oF": 0
 		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/it.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/it.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ja.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ja.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/kn.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/kn.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ko.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ko.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/lt.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/lt.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/lv.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/lv.lproj\/locale.pak",
-		"oF": 0
-		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/MainMenu.nib": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/MainMenu.nib",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ml.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ml.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/mr.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/mr.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ms.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ms.lproj\/locale.pak",
 		"oF": 0
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/natives_blob.bin": {
@@ -2241,202 +2142,16 @@
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/natives_blob.bin",
 		"oF": 0
 		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/nb.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/nb.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/nl.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/nl.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/pl.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/pl.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/pt_BR.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/pt_BR.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/pt_PT.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/pt_PT.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ro.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ro.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ru.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ru.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sk.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sk.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sl.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sl.lproj\/locale.pak",
-		"oF": 0
-		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/snapshot_blob.bin": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/snapshot_blob.bin",
 		"oF": 0
 		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sr.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sr.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sv.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sv.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sw.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sw.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ta.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ta.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/te.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/te.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/th.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/th.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/tr.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/tr.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/uk.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/uk.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/vi.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/vi.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/zh_CN.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/zh_CN.lproj\/locale.pak",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/zh_TW.lproj\/locale.pak": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/zh_TW.lproj\/locale.pak",
-		"oF": 0
-		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Mantle": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Mantle",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/Mantle.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/Mantle.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/MTLJSONAdapter.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/MTLJSONAdapter.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/MTLManagedObjectAdapter.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/MTLManagedObjectAdapter.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/MTLModel+NSCoding.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/MTLModel+NSCoding.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/MTLModel.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/MTLModel.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/MTLValueTransformer.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/MTLValueTransformer.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/NSArray+MTLManipulationAdditions.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/NSArray+MTLManipulationAdditions.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/NSDictionary+MTLManipulationAdditions.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/NSDictionary+MTLManipulationAdditions.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/NSObject+MTLComparisonAdditions.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/NSObject+MTLComparisonAdditions.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/NSValueTransformer+MTLInversionAdditions.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/NSValueTransformer+MTLInversionAdditions.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/NSValueTransformer+MTLPredefinedTransformerAdditions.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/NSValueTransformer+MTLPredefinedTransformerAdditions.h",
 		"oF": 0
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Mantle": {
@@ -2517,324 +2232,6 @@
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/ReactiveCocoa",
 		"oF": 0
 		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/EXTKeyPathCoding.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/EXTKeyPathCoding.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/EXTScope.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/EXTScope.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/metamacros.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/metamacros.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSArray+RACSequenceAdditions.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSArray+RACSequenceAdditions.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSControl+RACCommandSupport.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSControl+RACCommandSupport.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSControl+RACTextSignalSupport.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSControl+RACTextSignalSupport.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSData+RACSupport.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSData+RACSupport.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSDictionary+RACSequenceAdditions.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSDictionary+RACSequenceAdditions.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSEnumerator+RACSequenceAdditions.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSEnumerator+RACSequenceAdditions.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSFileHandle+RACSupport.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSFileHandle+RACSupport.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSIndexSet+RACSequenceAdditions.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSIndexSet+RACSequenceAdditions.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSNotificationCenter+RACSupport.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSNotificationCenter+RACSupport.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSObject+RACAppKitBindings.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSObject+RACAppKitBindings.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSObject+RACDeallocating.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSObject+RACDeallocating.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSObject+RACLifting.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSObject+RACLifting.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSObject+RACPropertySubscribing.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSObject+RACPropertySubscribing.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSObject+RACSelectorSignal.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSObject+RACSelectorSignal.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSOrderedSet+RACSequenceAdditions.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSOrderedSet+RACSequenceAdditions.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSSet+RACSequenceAdditions.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSSet+RACSequenceAdditions.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSString+RACSequenceAdditions.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSString+RACSequenceAdditions.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSString+RACSupport.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSString+RACSupport.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSText+RACSignalSupport.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSText+RACSignalSupport.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSURLConnection+RACSupport.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSURLConnection+RACSupport.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSUserDefaults+RACSupport.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSUserDefaults+RACSupport.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACBacktrace.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACBacktrace.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACBehaviorSubject.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACBehaviorSubject.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACChannel.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACChannel.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACCommand.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACCommand.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACCompoundDisposable.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACCompoundDisposable.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACDisposable.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACDisposable.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACEvent.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACEvent.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACGroupedSignal.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACGroupedSignal.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACKVOChannel.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACKVOChannel.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACMulticastConnection.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACMulticastConnection.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACQueueScheduler+Subclass.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACQueueScheduler+Subclass.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACQueueScheduler.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACQueueScheduler.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACReplaySubject.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACReplaySubject.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACScheduler+Subclass.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACScheduler+Subclass.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACScheduler.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACScheduler.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACScopedDisposable.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACScopedDisposable.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSequence.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSequence.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSerialDisposable.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSerialDisposable.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSignal+Operations.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSignal+Operations.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSignal.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSignal.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACStream.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACStream.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSubject.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSubject.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSubscriber.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSubscriber.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSubscriptingAssignmentTrampoline.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSubscriptingAssignmentTrampoline.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACTargetQueueScheduler.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACTargetQueueScheduler.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACTestScheduler.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACTestScheduler.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACTuple.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACTuple.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACUnit.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACUnit.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/ReactiveCocoa.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/ReactiveCocoa.h",
-		"oF": 0
-		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Modules\/module.modulemap": {
 		"ft": 8192,
 		"oA": 2,
@@ -2857,42 +2254,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Squirrel.framework\/Squirrel",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/NSBundle+SQRLVersionExtensions.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/NSBundle+SQRLVersionExtensions.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/NSProcessInfo+SQRLVersionExtensions.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/NSProcessInfo+SQRLVersionExtensions.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/SQRLDownloadedUpdate.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/SQRLDownloadedUpdate.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/SQRLUpdate.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/SQRLUpdate.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/SQRLUpdater.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/SQRLUpdater.h",
-		"oF": 0
-		},
-	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/Squirrel.h": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/Squirrel.h",
 		"oF": 0
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Modules\/module.modulemap": {
@@ -3032,71 +2393,78 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/1024x1024.png": {
 		"ft": 32768,
 		"iS": 127539,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/1024x1024.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/128x128.png": {
 		"ft": 32768,
 		"iS": 8298,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/128x128.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/16x16.png": {
 		"ft": 32768,
 		"iS": 665,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/16x16.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/256x256.png": {
 		"ft": 32768,
 		"iS": 19740,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/256x256.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/32x32.png": {
 		"ft": 32768,
 		"iS": 1556,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/32x32.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/512x512.png": {
 		"ft": 32768,
 		"iS": 31015,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/512x512.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/64x64.png": {
 		"ft": 32768,
 		"iS": 3554,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/linux\/64x64.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/icons\/mac\/icon.icns": {
@@ -3120,101 +2488,111 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/mora\/logo.png": {
 		"ft": 32768,
 		"iS": 59595,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/mora\/logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/mora\/type.png": {
 		"ft": 32768,
 		"iS": 85656,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/mora\/type.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/black\/black-image.png": {
 		"ft": 32768,
 		"iS": 59402,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/black\/black-image.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/black\/black.png": {
 		"ft": 32768,
 		"iS": 58823,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/black\/black.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/logo.png": {
 		"ft": 32768,
 		"iS": 60153,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/pink\/pink-image.png": {
 		"ft": 32768,
 		"iS": 74269,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/pink\/pink-image.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/pink\/pink.png": {
 		"ft": 32768,
 		"iS": 65691,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/pink\/pink.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/transparent.png": {
 		"ft": 32768,
 		"iS": 77056,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/transparent.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/white\/white-image.png": {
 		"ft": 32768,
 		"iS": 74477,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/white\/white-image.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/white\/white.png": {
 		"ft": 32768,
 		"iS": 68061,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/logos\/venus\/white\/white.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/anne.jpg": {
@@ -3223,57 +2601,63 @@
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/anne.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/bars\/background-bar.png": {
 		"ft": 32768,
 		"iS": 1908,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/bars\/background-bar.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/bars\/education-bar.png": {
 		"ft": 32768,
 		"iS": 1976,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/bars\/education-bar.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/bars\/legal-bar.png": {
 		"ft": 32768,
 		"iS": 1227,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/bars\/legal-bar.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/bars\/medical-bar.png": {
 		"ft": 32768,
 		"iS": 1985,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/bars\/medical-bar.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/child-view.png": {
 		"ft": 32768,
 		"iS": 166930,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/child-view.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/damion.jpg": {
@@ -3282,77 +2666,85 @@
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/damion.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/dashboard.png": {
 		"ft": 32768,
 		"iS": 660973,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/dashboard.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/sprint-1\/sprint1-1.png": {
 		"ft": 32768,
 		"iS": 151728,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/sprint-1\/sprint1-1.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/sprint-1\/sprint1-2.png": {
 		"ft": 32768,
 		"iS": 116031,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/sprint-1\/sprint1-2.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/sprint-1\/sprint1-3.png": {
 		"ft": 32768,
 		"iS": 557261,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/sprint-1\/sprint1-3.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/sprint-1\/sprint1-4.png": {
 		"ft": 32768,
 		"iS": 90727,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/sprint-1\/sprint1-4.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/sprint-1\/sprint1-5.png": {
 		"ft": 32768,
 		"iS": 522292,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/sprint-1\/sprint1-5.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/style-guide.png": {
 		"ft": 32768,
 		"iS": 191481,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/other\/style-guide.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/team\/frances-coronel.jpg": {
@@ -3361,6 +2753,7 @@
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/team\/frances-coronel.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3370,6 +2763,7 @@
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/team\/isha-toor.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3379,6 +2773,7 @@
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/team\/mara-tache.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3388,6 +2783,7 @@
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/images\/team\/mengyu-cao.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4075,11 +3471,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/alerts\/error.png": {
 		"ft": 32768,
 		"iS": 4154,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/alerts\/error.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/alerts\/error.svg": {
@@ -4095,11 +3492,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/alerts\/info.png": {
 		"ft": 32768,
 		"iS": 3622,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/alerts\/info.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/alerts\/info.svg": {
@@ -4115,11 +3513,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/alerts\/success.png": {
 		"ft": 32768,
 		"iS": 4098,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/alerts\/success.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/alerts\/success.svg": {
@@ -4135,11 +3534,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/alerts\/warning.png": {
 		"ft": 32768,
 		"iS": 3159,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/alerts\/warning.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/alerts\/warning.svg": {
@@ -4155,11 +3555,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/angle-arrow-down-hover.png": {
 		"ft": 32768,
 		"iS": 15183,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/angle-arrow-down-hover.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/angle-arrow-down-hover.svg": {
@@ -4175,11 +3576,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/angle-arrow-down-primary-hover.png": {
 		"ft": 32768,
 		"iS": 14730,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/angle-arrow-down-primary-hover.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/angle-arrow-down-primary-hover.svg": {
@@ -4195,11 +3597,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/angle-arrow-down-primary.png": {
 		"ft": 32768,
 		"iS": 14731,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/angle-arrow-down-primary.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/angle-arrow-down-primary.svg": {
@@ -4215,11 +3618,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/angle-arrow-down.png": {
 		"ft": 32768,
 		"iS": 512,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/angle-arrow-down.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/angle-arrow-down.svg": {
@@ -4235,11 +3639,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/angle-arrow-up-primary-hover.png": {
 		"ft": 32768,
 		"iS": 2567,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/angle-arrow-up-primary-hover.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/angle-arrow-up-primary-hover.svg": {
@@ -4255,11 +3660,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/angle-arrow-up-primary.png": {
 		"ft": 32768,
 		"iS": 2546,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/angle-arrow-up-primary.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/angle-arrow-up-primary.svg": {
@@ -4275,11 +3681,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/arrow-down.png": {
 		"ft": 32768,
 		"iS": 296,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/arrow-down.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/arrow-down.svg": {
@@ -4295,11 +3702,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/arrow-right.png": {
 		"ft": 32768,
 		"iS": 265,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/arrow-right.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/arrow-right.svg": {
@@ -4315,21 +3723,23 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/circle-124.png": {
 		"ft": 32768,
 		"iS": 17738,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/circle-124.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/close.png": {
 		"ft": 32768,
 		"iS": 2031,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/close.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/close.svg": {
@@ -4345,11 +3755,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/correct8.png": {
 		"ft": 32768,
 		"iS": 195,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/correct8.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/correct8.svg": {
@@ -4365,11 +3776,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/correct9.png": {
 		"ft": 32768,
 		"iS": 446,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/correct9.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/correct9.svg": {
@@ -4385,11 +3797,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/external-link-alt-hover.png": {
 		"ft": 32768,
 		"iS": 15206,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/external-link-alt-hover.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/external-link-alt-hover.svg": {
@@ -4405,11 +3818,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/external-link-alt.png": {
 		"ft": 32768,
 		"iS": 1218,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/external-link-alt.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/external-link-alt.svg": {
@@ -4425,11 +3839,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/external-link-hover.png": {
 		"ft": 32768,
 		"iS": 2105,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/external-link-hover.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/external-link-hover.svg": {
@@ -4445,11 +3860,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/external-link.png": {
 		"ft": 32768,
 		"iS": 2043,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/external-link.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/external-link.svg": {
@@ -4465,71 +3881,78 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/favicons\/favicon-114.png": {
 		"ft": 32768,
 		"iS": 606,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/favicons\/favicon-114.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/favicons\/favicon-144.png": {
 		"ft": 32768,
 		"iS": 698,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/favicons\/favicon-144.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/favicons\/favicon-16.png": {
 		"ft": 32768,
 		"iS": 215,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/favicons\/favicon-16.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/favicons\/favicon-192.png": {
 		"ft": 32768,
 		"iS": 775,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/favicons\/favicon-192.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/favicons\/favicon-40.png": {
 		"ft": 32768,
 		"iS": 2030,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/favicons\/favicon-40.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/favicons\/favicon-57.png": {
 		"ft": 32768,
 		"iS": 526,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/favicons\/favicon-57.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/favicons\/favicon-72.png": {
 		"ft": 32768,
 		"iS": 400,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/favicons\/favicon-72.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/favicons\/favicon.ico": {
@@ -4541,21 +3964,23 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/favicons\/favicon.png": {
 		"ft": 32768,
 		"iS": 729,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/favicons\/favicon.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/hero.png": {
 		"ft": 32768,
 		"iS": 740766,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/hero.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/icon-dot-gov.svg": {
@@ -4581,21 +4006,23 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/logo-img.png": {
 		"ft": 32768,
 		"iS": 1022,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/logo-img.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/minus-alt.png": {
 		"ft": 32768,
 		"iS": 14612,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/minus-alt.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/minus-alt.svg": {
@@ -4611,11 +4038,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/minus.png": {
 		"ft": 32768,
 		"iS": 142,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/minus.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/minus.svg": {
@@ -4631,11 +4059,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/plus-alt.png": {
 		"ft": 32768,
 		"iS": 14716,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/plus-alt.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/plus-alt.svg": {
@@ -4651,11 +4080,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/plus.png": {
 		"ft": 32768,
 		"iS": 241,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/plus.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/plus.svg": {
@@ -4671,11 +4101,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/search-alt.png": {
 		"ft": 32768,
 		"iS": 17585,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/search-alt.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/search-alt.svg": {
@@ -4691,11 +4122,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/search.png": {
 		"ft": 32768,
 		"iS": 316,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/search.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/search.svg": {
@@ -4711,41 +4143,45 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/social-icons\/png\/facebook25.png": {
 		"ft": 32768,
 		"iS": 406,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/social-icons\/png\/facebook25.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/social-icons\/png\/rss25.png": {
 		"ft": 32768,
 		"iS": 1018,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/social-icons\/png\/rss25.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/social-icons\/png\/twitter16.png": {
 		"ft": 32768,
 		"iS": 841,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/social-icons\/png\/twitter16.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/social-icons\/png\/youtube15.png": {
 		"ft": 32768,
 		"iS": 1036,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/social-icons\/png\/youtube15.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/social-icons\/svg\/facebook25.svg": {
@@ -4791,11 +4227,12 @@
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/us_flag_small.png": {
 		"ft": 32768,
 		"iS": 176,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/img\/us_flag_small.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/app\/release-builds\/Mora-darwin-x64\/Mora.app\/Contents\/Resources\/app\/assets\/uswds\/js\/uswds.js": {
@@ -5922,6 +5359,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-prototype-builtins": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-redeclare": {
 			"active": 1,
 			"optionString": "{'builtinGlobals': false}"
@@ -6746,14 +6187,6 @@
 		"orderOutput": 0,
 		"outputStyle": 1
 		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
-		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
@@ -6816,7 +6249,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"enableLossy": 1,
+		"optimizerType": 1,
 		"quality": 100
 		},
 	"languageDefaultsPUG": {
