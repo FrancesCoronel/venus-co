@@ -4,25 +4,19 @@
 
 Assets for Venus Co. | Startup Studio | Spring 2017 💕
 
-![MORA-Logo](app/assets/images/logos/mora/type.png)
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Credits](#credits)
-- [Donations](#donations)
+![Logo](resources/images/logos/mora/type.png)
 
 ## Installation
 
-To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To run this app locally you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer.
+
+From your command line, perform the following commands.
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-quick-start
+git clone https://github.com/fvcproductions/venus-co.git
 # Go into the repository
-cd electron-quick-start
+cd venus-co
 # Install dependencies & run the app
 npm i && npm start
 # Electron packager
@@ -30,6 +24,9 @@ npm i electron-packager --save-dev
 npm i --save-dev electron
 # Build Mac Packager
 electron-packager . --overwrite --platform=darwin --arch=x64 --icon=assets/icons/mac/icon.icns --prune=true --out=release-builds
+# Create DMG
+cd app/release-builds/Mora-darwin-x64
+create-dmg 'Mora.app'
 ```
 
 > Having trouble opening the DMG (allow apps to be downloaded from anywhere)?
@@ -44,11 +41,17 @@ sudo sptcl --master-disable
 
 Project for Startup Studio 2017.
 
-![MORA-v1](app/assets/images/sprint-1/sprint-1-1.png)
-
-![Mora-v2](app/assets/images/sprint-2/sprint-2-1.png)
-
 Photos taken from [AdoptUSKids](http://www.adoptuskids.org/).
+
+## Screenshots
+
+### Sprint 1
+
+![Mora-v1](resources/images/sprint-1/sprint-1-1.png)
+
+### Sprint 2
+
+![Mora-v2](resources/images/sprint-2/sprint-2-1.png)
 
 ## Contributing
 

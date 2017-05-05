@@ -2690,9 +2690,6 @@ button,
 section.children {
   margin-top: 2em; }
 
-.children image {
-  width: 50% !important; }
-
 header.major > :last-child {
   margin-bottom: 1em; }
 
@@ -2702,12 +2699,10 @@ header.major > :last-child {
 .social-worker-buttons-top {
   margin-top: 1.5em; }
 
-.header p {
-  margin-top: 1em; }
-
 .social-worker-header-text {
   margin-left: 1em;
-  width: 40%; }
+  width: 40%;
+  margin-top: 2em; }
 
 .image.circle.small.social-worker-image {
   width: 70%; }
@@ -2715,19 +2710,23 @@ header.major > :last-child {
 .inspiration header {
   font-size: .5em; }
 
-.header-quote p {
-  text-transform: none;
-  font-family: 'Source Sans Pro';
-  font-size: 1.5em; }
-
-header.major.header-quote-major h4 {
-  font-size: 1.5em; }
-
 .goals {
   width: 60%; }
 
+.header p {
+  margin-top: 1em; }
+
 .header-quote {
-  padding-top: 3em; }
+  margin-left: 10%; }
+  .header-quote header.major.header-quote-major h4 {
+    font-size: 1.5em; }
+  .header-quote p {
+    text-transform: none;
+    font-family: 'Source Sans Pro';
+    font-size: 1.5em; }
+
+section.tracking-options p {
+  font-size: 1.2em; }
 
 input,
 textarea,
@@ -2890,7 +2889,12 @@ span.link-to-time {
 
 .tracking-options {
   margin-bottom: 3em; }
-  .tracking-options .fa-folder-open-o, .tracking-options .fa-child, .tracking-options .fa-trophy, .tracking-options .fa-clock-o, .tracking-options .fa-thumbs-o-up, .tracking-options .fa-support {
+  .tracking-options .fa-folder-open-o,
+  .tracking-options .fa-child,
+  .tracking-options .fa-trophy,
+  .tracking-options .fa-clock-o,
+  .tracking-options .fa-thumbs-o-up,
+  .tracking-options .fa-support {
     color: #3d4449; }
 
 .stat-button {

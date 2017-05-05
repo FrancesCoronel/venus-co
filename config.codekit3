@@ -202,6 +202,16 @@
 		"oAP": "\/app\/assets\/icons\/windows\/mora.ico",
 		"oF": 0
 		},
+	"\/app\/assets\/images\/anne.jpg": {
+		"ft": 16384,
+		"iS": 42114,
+		"oA": 0,
+		"oAP": "\/app\/assets\/images\/anne.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/app\/assets\/images\/bars\/background-bar.png": {
 		"ft": 32768,
 		"iS": 1908,
@@ -246,273 +256,25 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/app\/assets\/images\/logos\/mora\/logo.png": {
-		"ft": 32768,
-		"iS": 59595,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/logos\/mora\/logo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/app\/assets\/images\/logos\/mora\/type.png": {
-		"ft": 32768,
-		"iS": 85656,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/logos\/mora\/type.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/app\/assets\/images\/logos\/venus\/black\/black-image.png": {
-		"ft": 32768,
-		"iS": 59402,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/logos\/venus\/black\/black-image.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/app\/assets\/images\/logos\/venus\/black\/black.png": {
-		"ft": 32768,
-		"iS": 58823,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/logos\/venus\/black\/black.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/app\/assets\/images\/logos\/venus\/logo.png": {
-		"ft": 32768,
-		"iS": 60153,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/logos\/venus\/logo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/app\/assets\/images\/logos\/venus\/pink\/pink-image.png": {
-		"ft": 32768,
-		"iS": 74269,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/logos\/venus\/pink\/pink-image.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/app\/assets\/images\/logos\/venus\/pink\/pink.png": {
-		"ft": 32768,
-		"iS": 65691,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/logos\/venus\/pink\/pink.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/app\/assets\/images\/logos\/venus\/transparent.png": {
-		"ft": 32768,
-		"iS": 77056,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/logos\/venus\/transparent.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/app\/assets\/images\/logos\/venus\/white\/white-image.png": {
-		"ft": 32768,
-		"iS": 74477,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/logos\/venus\/white\/white-image.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/app\/assets\/images\/logos\/venus\/white\/white.png": {
-		"ft": 32768,
-		"iS": 68061,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/logos\/venus\/white\/white.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/app\/assets\/images\/other\/anne.jpg": {
-		"ft": 16384,
-		"iS": 42114,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/other\/anne.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/app\/assets\/images\/other\/child-view.png": {
-		"ft": 32768,
-		"iS": 166930,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/other\/child-view.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/app\/assets\/images\/other\/damion.jpg": {
+	"\/app\/assets\/images\/damion.jpg": {
 		"ft": 16384,
 		"iS": 15575,
 		"oA": 0,
-		"oAP": "\/app\/assets\/images\/other\/damion.jpg",
+		"oAP": "\/app\/assets\/images\/damion.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/app\/assets\/images\/other\/dashboard.png": {
+	"\/app\/assets\/images\/mora.png": {
 		"ft": 32768,
-		"iS": 660973,
+		"iS": 85656,
 		"oA": 0,
-		"oAP": "\/app\/assets\/images\/other\/dashboard.png",
+		"oAP": "\/app\/assets\/images\/mora.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
-		"q": 100
-		},
-	"\/app\/assets\/images\/other\/style-guide.png": {
-		"ft": 32768,
-		"iS": 191481,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/other\/style-guide.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/app\/assets\/images\/sprint-1\/sprint-1-1.png": {
-		"ft": 32768,
-		"iS": 151728,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/sprint-1\/sprint-1-1.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/app\/assets\/images\/sprint-1\/sprint-1-2.png": {
-		"ft": 32768,
-		"iS": 116031,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/sprint-1\/sprint-1-2.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/app\/assets\/images\/sprint-1\/sprint-1-3.png": {
-		"ft": 32768,
-		"iS": 557261,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/sprint-1\/sprint-1-3.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/app\/assets\/images\/sprint-1\/sprint-1-4.png": {
-		"ft": 32768,
-		"iS": 90727,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/sprint-1\/sprint-1-4.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/app\/assets\/images\/sprint-1\/sprint-1-5.png": {
-		"ft": 32768,
-		"iS": 522292,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/sprint-1\/sprint-1-5.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/app\/assets\/images\/sprint-2\/sprint-2-1.png": {
-		"ft": 32768,
-		"iS": 140595,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/sprint-2\/sprint-2-1.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/app\/assets\/images\/team\/frances-coronel.jpg": {
-		"ft": 16384,
-		"iS": 145378,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/team\/frances-coronel.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/app\/assets\/images\/team\/isha-toor.jpg": {
-		"ft": 16384,
-		"iS": 8057,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/team\/isha-toor.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/app\/assets\/images\/team\/mara-tache.jpg": {
-		"ft": 16384,
-		"iS": 32076,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/team\/mara-tache.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/app\/assets\/images\/team\/mengyu-cao.jpg": {
-		"ft": 16384,
-		"iS": 32262,
-		"oA": 0,
-		"oAP": "\/app\/assets\/images\/team\/mengyu-cao.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
 		"q": 100
 		},
 	"\/app\/assets\/js\/custom.js": {
@@ -4389,6 +4151,281 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/resources\/images\/background.jpg": {
+		"ft": 16384,
+		"iS": 2535597,
+		"oA": 0,
+		"oAP": "\/resources\/images\/background.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/images\/child-view.png": {
+		"ft": 32768,
+		"iS": 166930,
+		"oA": 0,
+		"oAP": "\/resources\/images\/child-view.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/images\/dashboard.png": {
+		"ft": 32768,
+		"iS": 660973,
+		"oA": 0,
+		"oAP": "\/resources\/images\/dashboard.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/images\/logos\/mora\/logo.png": {
+		"ft": 32768,
+		"iS": 59595,
+		"oA": 0,
+		"oAP": "\/resources\/images\/logos\/mora\/logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/images\/logos\/mora\/type.png": {
+		"ft": 32768,
+		"iS": 85656,
+		"oA": 0,
+		"oAP": "\/resources\/images\/logos\/mora\/type.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/images\/logos\/venus\/black\/black-image.png": {
+		"ft": 32768,
+		"iS": 59402,
+		"oA": 0,
+		"oAP": "\/resources\/images\/logos\/venus\/black\/black-image.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/images\/logos\/venus\/black\/black.png": {
+		"ft": 32768,
+		"iS": 58823,
+		"oA": 0,
+		"oAP": "\/resources\/images\/logos\/venus\/black\/black.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/images\/logos\/venus\/logo.png": {
+		"ft": 32768,
+		"iS": 60153,
+		"oA": 0,
+		"oAP": "\/resources\/images\/logos\/venus\/logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/images\/logos\/venus\/pink\/pink-image.png": {
+		"ft": 32768,
+		"iS": 74269,
+		"oA": 0,
+		"oAP": "\/resources\/images\/logos\/venus\/pink\/pink-image.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/images\/logos\/venus\/pink\/pink.png": {
+		"ft": 32768,
+		"iS": 65691,
+		"oA": 0,
+		"oAP": "\/resources\/images\/logos\/venus\/pink\/pink.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/images\/logos\/venus\/transparent.png": {
+		"ft": 32768,
+		"iS": 77056,
+		"oA": 0,
+		"oAP": "\/resources\/images\/logos\/venus\/transparent.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/images\/logos\/venus\/white\/white-image.png": {
+		"ft": 32768,
+		"iS": 74477,
+		"oA": 0,
+		"oAP": "\/resources\/images\/logos\/venus\/white\/white-image.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/images\/logos\/venus\/white\/white.png": {
+		"ft": 32768,
+		"iS": 68061,
+		"oA": 0,
+		"oAP": "\/resources\/images\/logos\/venus\/white\/white.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/images\/sprint-1\/sprint-1-1.png": {
+		"ft": 32768,
+		"iS": 151728,
+		"oA": 0,
+		"oAP": "\/resources\/images\/sprint-1\/sprint-1-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/images\/sprint-1\/sprint-1-2.png": {
+		"ft": 32768,
+		"iS": 116031,
+		"oA": 0,
+		"oAP": "\/resources\/images\/sprint-1\/sprint-1-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/images\/sprint-1\/sprint-1-3.png": {
+		"ft": 32768,
+		"iS": 557261,
+		"oA": 0,
+		"oAP": "\/resources\/images\/sprint-1\/sprint-1-3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/images\/sprint-1\/sprint-1-4.png": {
+		"ft": 32768,
+		"iS": 90727,
+		"oA": 0,
+		"oAP": "\/resources\/images\/sprint-1\/sprint-1-4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/images\/sprint-1\/sprint-1-5.png": {
+		"ft": 32768,
+		"iS": 522292,
+		"oA": 0,
+		"oAP": "\/resources\/images\/sprint-1\/sprint-1-5.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/images\/sprint-2\/sprint-2-1.png": {
+		"ft": 32768,
+		"iS": 140595,
+		"oA": 0,
+		"oAP": "\/resources\/images\/sprint-2\/sprint-2-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/images\/sprint-2\/sprint-2-2.jpeg": {
+		"ft": 16384,
+		"iS": 236481,
+		"oA": 0,
+		"oAP": "\/resources\/images\/sprint-2\/sprint-2-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/images\/style-guide.png": {
+		"ft": 32768,
+		"iS": 191481,
+		"oA": 0,
+		"oAP": "\/resources\/images\/style-guide.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/resources\/images\/team\/frances-coronel.jpg": {
+		"ft": 16384,
+		"iS": 145378,
+		"oA": 0,
+		"oAP": "\/resources\/images\/team\/frances-coronel.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/images\/team\/isha-toor.jpg": {
+		"ft": 16384,
+		"iS": 8057,
+		"oA": 0,
+		"oAP": "\/resources\/images\/team\/isha-toor.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/images\/team\/mara-tache.jpg": {
+		"ft": 16384,
+		"iS": 32076,
+		"oA": 0,
+		"oAP": "\/resources\/images\/team\/mara-tache.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/images\/team\/mengyu-cao.jpg": {
+		"ft": 16384,
+		"iS": 32262,
+		"oA": 0,
+		"oAP": "\/resources\/images\/team\/mengyu-cao.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/resources\/sketch\/venus-co.sketch": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/sketch\/venus-co.sketch",
+		"oF": 0
 		}
 	},
 "hooks": [
