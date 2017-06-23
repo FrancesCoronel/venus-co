@@ -43,16 +43,6 @@ Project for Startup Studio 2017.
 
 Photos taken from [AdoptUSKids](http://www.adoptuskids.org/).
 
-## Screenshots
-
-### Sprint 1
-
-![Mora-v1](resources/images/sprint-1/sprint-1-1.png)
-
-### Sprint 2
-
-![Mora-v2](resources/images/sprint-2/sprint-2-1.png)
-
 ## Contributing
 
 > To get started...
