@@ -1,6 +1,6 @@
 # venus-co
 
-[![Github Issues](https://img.shields.io/github/issues/fvcproductions/venus-co.svg?style=flat-square)](https://github.com/fvcproductions/venus-co/issues) [![GitHub  Pull-Requests](https://img.shields.io/github/issues-pr/fvcproductions/venus-co.svg?style=flat-square)](https://github.com/fvcproductions/venus-co/pulls) [![MIT License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square)](http://paypal.me/fvcproductions)
+[![Github Issues](https://img.shields.io/github/issues/fvcproductions/venus-co.svg?style=flat-square)](https://github.com/FrancesCoronel/venus-co/issues) [![GitHub  Pull-Requests](https://img.shields.io/github/issues-pr/fvcproductions/venus-co.svg?style=flat-square)](https://github.com/FrancesCoronel/venus-co/pulls) [![MIT License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square)](http://paypal.me/fvcproductions)
 
 Assets for Venus Co. | Startup Studio | Spring 2017 💕
 
@@ -14,7 +14,7 @@ From your command line, perform the following commands.
 
 ```bash
 # Clone this repository
-git clone https://github.com/fvcproductions/venus-co.git
+git clone https://github.com/FrancesCoronel/venus-co.git
 # Go into the repository
 cd venus-co
 # Install dependencies & run the app
@@ -47,14 +47,14 @@ Photos taken from [AdoptUSKids](http://www.adoptuskids.org/).
 
 > To get started...
 
-- 🍴 Fork this repo [here](https://github.com/fvcproductions/venus-co#fork-destination-box)
+- 🍴 Fork this repo [here](https://github.com/FrancesCoronel/venus-co#fork-destination-box)
 - 🔨 Hack away
 - 👥 Add yourself as a contributor under credits
-- 🔧 Make a pull request [here](https://github.com/fvcproductions/venus-co/compare)
+- 🔧 Make a pull request [here](https://github.com/FrancesCoronel/venus-co/compare)
 - 🎉 Get your pull request approved - success!
 
-Or just [create an issue](https://github.com/fvcproductions/venus-co/issues) - any little bit of help counts! 😊
+Or just [create an issue](https://github.com/FrancesCoronel/venus-co/issues) - any little bit of help counts! 😊
 
 ## Credits
 
-- [FVCproductions](http://fvcproductions.com) 🍓🍫
+- [FVCproductions](http://francescoronel.com) 🍓🍫
